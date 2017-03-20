@@ -7,8 +7,25 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "LEEI",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "art-template": "^3.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LEEIilEEI/koa2-arttemplate"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "artTemplate",
+    "art-template",
+    "render",
+    "views",
+    "templating",
+    "templates"
+  ],
+  "bugs": {
+    "url": "https://github.com/LEEIilEEI/koa2-arttemplate/issues"
   }
 }
