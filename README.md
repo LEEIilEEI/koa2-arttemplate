@@ -1,3 +1,5 @@
+### 方便使用arttemplate， 有问题可以提issues
+
 ### 如何使用
 const template = require('koa2-arttemplate')
 
