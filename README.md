@@ -1,6 +1,6 @@
-## 方便使用arttemplate， 有问题可以提issues
+## koa2-arttemplate
 
-## 如何使用
+## how to use
 ```
 const template = require('koa2-arttemplate')
 
